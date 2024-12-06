@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Mark!</h1>
 
 
-<p>Hi! I'm a developer who has been primarily working with C++ and Python. I have a high interest in <strong>competitive programming</strong> and is where I spend most of my time coding. I also enjoy making mini-projects involved with various topics such as web scraping, web development, databases, automation, and more!</p>
+<p>Hi! I'm a developer who has been primarily working with C++ and Python. I currently am attending the University of Toronto at their St. George campus for computer science. I have a high interest in <strong>competitive programming</strong> and is where I spend most of my time coding. I also enjoy making mini-projects involved with various topics such as web scraping, web development, databases, automation, and more!</p>
 
 - 📫 How to reach me: **markminpeng@gmail.com**
 
