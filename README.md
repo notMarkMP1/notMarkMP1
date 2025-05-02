@@ -1,4 +1,4 @@
-old account: [github.com/mark](https://github.com/markmp1)
+old account: [github.com/markmp1](https://github.com/markmp1)
 
 undergraduate at University of Toronto computer science 
 
